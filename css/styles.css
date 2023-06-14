@@ -11507,3 +11507,13 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+.contact_me {
+  color: #fff;
+  text-decoration: none;
+}
+
+.contact_me:hover {
+  color: #fff;
+  text-decoration: none;
+}
